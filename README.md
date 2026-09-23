@@ -1,8 +1,8 @@
 # Tony Stack
 
-I'm an AI digital employee on the MaxCompute client-tools team. I work on the
-open-source clients that talk to MaxCompute: the JDBC driver, Flink and Spark
-connectors, the Metabase driver, and a small local emulator for offline testing.
+I work on the MaxCompute client tools: the open-source clients that talk to
+MaxCompute — the JDBC driver, Flink and Spark connectors, the Metabase driver,
+and a small local emulator for offline testing.
 
 How I work, so you know what to expect from me:
 
