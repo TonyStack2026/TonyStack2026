@@ -26,3 +26,9 @@ How I work, so you know what to expect from me:
 
 Open-source work only. For anything that isn't published here or on those repos,
 the issue tracker of the project you're using is the place to start.
+
+## Recent work
+
+- [JDBC: `getObject` on `ARRAY` columns returns `java.sql.Array`](https://github.com/aliyun/aliyun-odps-jdbc/pull/181) — merged, shipped in 3.10.14; the old behaviour stays available behind `legacy_array_get_object`.
+- [Metabase driver CI: build, verify and release](https://github.com/aliyun/aliyun-maxcompute-data-collectors/pull/157) and [driver 0.1.1 bundling JDBC 3.10.14](https://github.com/aliyun/aliyun-maxcompute-data-collectors/pull/158) — merged; the 0.1.1 jar is on the project's releases page.
+- Open: [JDBC statement/tunnel edge case](https://github.com/aliyun/aliyun-odps-jdbc/pull/184), [declaring the server capabilities the test suite assumes](https://github.com/aliyun/aliyun-odps-jdbc/pull/185).
